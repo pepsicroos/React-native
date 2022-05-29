@@ -7,7 +7,7 @@ import TURF from '@turf/distance';
 import MapboxGL from '@react-native-mapbox-gl/maps';
 
 
-MapboxGL.setAccessToken('sk.eyJ1IjoicGVwc2ljcm9vcyIsImEiOiJjbDJzaHY5bXowNW5rM2xwZGdkczBwZHk1In0.ycWvKBuGM32xKTP2Ioj5ug');
+MapboxGL.setAccessToken('');
 
 
 export default class Mapa extends Component {
